@@ -39,7 +39,7 @@
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" text="Blue" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="qKz-Xn-yYN">
-                                <rect key="frame" x="188" y="28" width="162" height="125"/>
+                                <rect key="frame" x="218" y="28" width="162" height="125"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
